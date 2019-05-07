@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane.SystemMenuBar; 
-
 public class PlayerRoster {
 	public static void main(String [] args) {
 		final int MAX_PLAYERS = 5;
